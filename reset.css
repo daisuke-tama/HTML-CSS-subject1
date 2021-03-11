@@ -1,0 +1,36 @@
+html {
+  -webkit-text-size-adjust: 100%; 
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+img {
+    vertical-align : middle;
+}
+
+p {
+    line-height: 1.5;
+}
+
+address {
+    font-style : normal;
+}
+
+/* break word for all elements */
+*, *:before, *:after
+{word-break: break-all;-webkit-box-sizing: border-box;-moz-box-sizing: border-bo;box-sizing: border-box;}
+
+
+.engineer-list.contents-tidy {
+    align-items : normal;
+}
+.interview-list.contents-tidy {
+    align-items : normal;
+}
+
+.service-list.contents-tidy {
+    align-items : normal;
+}
+
